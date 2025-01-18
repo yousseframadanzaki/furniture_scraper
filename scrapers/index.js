@@ -11,14 +11,14 @@ import scrapeCarpiturefurniture from './carpiturefurniture/index.js';
 import scrapeHomzmart from './homzmart/index.js';
 export default [
     scrapeRetrofurniture
-    // scrapeArthouseEgy,
-    // scrapeRo2yahome,
-    // scrapeKimitt,
-    // scrapeLacasa,
-    // scrapeEfreshli,
-    // scrapeFurvive,
-    // scrapeChichomz,
-    // scrapeManzzeli,
-    // scrapeCarpiturefurniture,
-    // scrapeHomzmart,
+    scrapeArthouseEgy,
+    scrapeRo2yahome,
+    scrapeKimitt,
+    scrapeLacasa,
+    scrapeEfreshli,
+    scrapeFurvive,
+    scrapeChichomz,
+    scrapeManzzeli,
+    scrapeCarpiturefurniture,
+    scrapeHomzmart
 ];
